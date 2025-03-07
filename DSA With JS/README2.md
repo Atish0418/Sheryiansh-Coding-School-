@@ -1,16 +1,5 @@
 # 🚀 My MERN Stack Journey
 
-Welcome to my **MERN Stack Learning Series**! This repository documents my daily progress as I explore the **MERN Stack** along with **DSA (Data Structures & Algorithms) in JavaScript**.
-
-### MERN Stack Includes:
-- MongoDB
-- Express
-- React
-- Node.js
-- Microservices with Node.js
-- Web3 basics
-- Deployment
-
 ## 📅 DSA Start Date:
 **Day 27 - Thursday, 6th March 2025**
 
