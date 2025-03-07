@@ -31,8 +31,10 @@ Today, I explored various Math functions in JavaScript and tackled some interest
 ✅ Validating **voter eligibility** 🗳️  
 ✅ Checking for **leap years**  
 
-🔗 Learning JS Math functions helps in DSA, problem-solving, and real-world applications. Excited for the next session! 🚀  
+## 📂 Accessing the Code:
+To access the complete code:
+- **Download the ZIP file** from this repository.
+- Extract the ZIP file and navigate to the project folder.
+- The main code is located in **`script.js`**.
 
-
-
-#MERNStack #JavaScript #DSA #100DaysOfCode #MathFunctions #WebDevelopment #Coding
+Happy coding! 🚀
