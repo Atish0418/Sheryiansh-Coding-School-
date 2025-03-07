@@ -23,7 +23,3 @@ Welcome to my **MERN Stack Learning Series**! This repository documents my daily
 
 ## 📂 Table of Contents:
 - Upcoming Days: **More DSA concepts and MERN Stack projects**
-
-Stay tuned for more updates as I continue this exciting journey! 🚀
-
-#MERNStack #JavaScript #DSA #100DaysOfCode #WebDevelopment #Coding
