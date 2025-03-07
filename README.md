@@ -6,6 +6,7 @@ Welcome to my **MERN Stack Learning Series**! This repository documents my daily
 **Started The MERN Stack Journey from 27 January 2025 with Sheryians Coding School, covering the topics in 6 months**
 
 ### MERN Stack Includes:
+- Frontend --> HTML, CSS, JavaSCript
 - MongoDB
 - Express
 - React
