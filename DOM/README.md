@@ -46,7 +46,7 @@ Edit
 
 ## 📷 Screenshot
 
-![Screenshot of the music bar processor](/src/music%20bar.JPG) <!-- Replace with an actual screenshot file if needed -->
+![Screenshot of the music bar processor](/src/music bar.JPG) <!-- Replace with an actual screenshot file if needed -->
 
 ## 📌 To Run Locally
 
