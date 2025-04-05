@@ -18,14 +18,6 @@ This is a fun and interactive JavaScript-based web project where clicking a butt
 - CSS
 - JavaScript (Vanilla)
 
-## 📁 Folder Structure
-
-/project-root │ ├── index.html ├── style.css ├── script.js └── /src ├── img1.png ├── img2.png ├── img3.png └── ... (other images)
-
-vbnet
-Copy
-Edit
-
 ## 🧠 How it Works
 
 1. A button is displayed on the center of the page.
