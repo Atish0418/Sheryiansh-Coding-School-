@@ -2,7 +2,7 @@
 
 This is a fun and interactive JavaScript-based web project where clicking a button randomly places an image anywhere on the screen. Each click adds a new image with random position (and optionally rotation) using DOM manipulation.
 
-## 📸 Demo
+Check work : https://random-image-scatter.netlify.app/
 
 ## 🚀 Features
 
