@@ -17,10 +17,11 @@ router.post('/register', async(req, res)=>{
         id:user._id,
     },process.env.JWT_SECRETE)
 
+    res.cookie("token", token);
+
     res.status(201).json({
         message:"User registered successfully!",
-        user,
-        token
+        user
     })
 })
 
@@ -55,7 +56,7 @@ router.post('/login', async(req, res)=>{
 // user
 router.get('/user', async(req, res)=>{
 
-    const {token} = req.body;
+    const {token} = req.cookies;
 
     if(!token){
         return res.status(401).json({
